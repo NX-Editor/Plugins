@@ -1,10 +1,10 @@
 {
-  "CeadPlugin": {
+  "NxEditor.CeadPlugin": {
     "Id": 659493324,
     "Name": "C# EAD Plugin",
     "Description": "Handles common EAD formats such as byaml, sarc and syaz0"
   },
-  "TotkPlugin": {
+  "NxEditor.TotkPlugin": {
     "Id": 653376036,
     "Name": "TotK Plugin",
     "Description": "Adds customized support for tears of the Kingdom"
