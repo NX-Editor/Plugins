@@ -1,4 +1,10 @@
 {
-  "C# EAD Plugin": 659493324,
-  "TotK Plugin": 653376036
+  "CeadPlugin": {
+    "Id": 659493324,
+    "Name": "C# EAD Plugin"
+  }
+  "TotkPlugin": {
+    "Id": 653376036,
+    "Name": "TotK Plugin"
+  }
 }
