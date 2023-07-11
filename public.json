@@ -1,8 +1,8 @@
 {
   "NxEditor.CeadPlugin": {
     "Id": 659493324,
-    "Name": "C# EAD Plugin",
-    "Description": "Handles common EAD formats such as byaml, sarc and syaz0"
+    "Name": "EPD Plugin",
+    "Description": "Handles common EPD formats such as byaml, sarc and syaz0"
   },
   "NxEditor.TotkPlugin": {
     "Id": 653376036,
