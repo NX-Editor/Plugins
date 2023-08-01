@@ -1,11 +1,11 @@
 {
-  "NxEditor.CeadPlugin": {
+  "NxEditor.EpdPlugin": {
     "Id": 659493324,
     "Name": "EPD Plugin",
     "Description": "Handles common EPD formats such as byaml, sarc and syaz0"
   },
   "NxEditor.TotkPlugin": {
-    "Id": 653376036,
+    "Id": 666543631,
     "Name": "TotK Plugin",
     "Description": "Adds customized support for tears of the Kingdom"
   }
